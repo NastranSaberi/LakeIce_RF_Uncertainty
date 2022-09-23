@@ -4,9 +4,6 @@ Lake ice mapping using Random Forests are built on work by Wu, Y., Duguay, C. R.
 
 Uncertainty calculations are built on proposed methode by Shaker, M. H., & Hüllermeier, E. (2020)[2].
 
-
-<img width="1890" alt="image" src="https://user-images.githubusercontent.com/59842707/192008495-7c6231c7-4b7c-4d70-85cd-430c776d6d9f.png">
-
 Using Terra TOA reflectance MOD02 in 500 m pixel spacing (bands 1-4 and 6-7) which is a re-gridded product from 250 and 500 meter products with diffrent bands. 
 
 <img width="404" alt="image" src="https://user-images.githubusercontent.com/59842707/189716327-e2aa92e6-ff64-469a-8b18-8aafdbe5b6f6.png">
@@ -29,5 +26,4 @@ For rejection analysis using uncertainties; the workfolw diagram is as follows (
 [1] Wu, Y., Duguay, C. R., & Xu, L. (2021). Assessment of machine learning classifiers for global lake ice cover mapping from MODIS TOA reflectance data. Remote Sensing of Environment, 253(November 2020), 112206. https://doi.org/10.1016/j.rse.2020.112206
 
 [2] Shaker, M. H., & Hüllermeier, E. (2020). Aleatoric and Epistemic Uncertainty with Random Forests. Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 12080 LNCS, 444–456. https://doi.org/10.1007/978-3-030-44584-3_35
-<img width="1471" alt="image" src="https://user-images.githubusercontent.com/59842707/192009020-2397f59f-41d2-42c3-a12f-2af3ee845ccd.png">
 
