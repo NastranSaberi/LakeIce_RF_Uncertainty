@@ -4,7 +4,7 @@ Lake ice mapping using Random Forests are built on work by Wu, Y., Duguay, C. R.
 
 Uncertainty calculations are built on proposed method by Shaker, M. H., & Hüllermeier, E. (2020)[2].
 
-We used Terra TOA reflectance (MOD02) which is in 500 m pixel spacing (bands 1-4 and 6-7); this is a re-gridded product created from 250 and 500 meter products with diffrent bands. 
+MODIS Terra Level 1B calibrated radiances product (MOD02/MYD02), Collection 6.1 used for mapping lake ice, water and cloud and uncertainty mapping. MOD02QKM with a 250 m pixel spacing at bands 1-2 and MOD02HKM with a 500 m-pixel spacing at bands: 3-7 were used. We applied Trishchenko, Luo, & Khlopenkov (2006)’s  method for resampling to 250 m pixels. 
 
 <img width="404" alt="image" src="https://user-images.githubusercontent.com/59842707/189716327-e2aa92e6-ff64-469a-8b18-8aafdbe5b6f6.png">
 
