@@ -2,7 +2,7 @@
 
 Lake ice mapping using Random Forests are built on work by Wu, Y., Duguay, C. R., & Xu, L. (2021)[1]. 
 
-Uncertainty calculations are built on proposed methode by Shaker, M. H., & Hüllermeier, E. (2020)[2].
+Uncertainty calculations are built on proposed method by Shaker, M. H., & Hüllermeier, E. (2020)[2].
 
 Using Terra TOA reflectance MOD02 in 500 m pixel spacing (bands 1-4 and 6-7) which is a re-gridded product from 250 and 500 meter products with diffrent bands. 
 
